@@ -723,7 +723,7 @@ section.callaction {
 }
 
 #parallax1 {
-  background-image: url(../img/parallax/1.jpg);
+  background-image: url(../img/parallax/slide1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   display: block;
@@ -2180,7 +2180,7 @@ article img.pull-right, article .align-right {
 }
 
 /* =============================
-21. Media queries 
+21. Media queries
 ============================= */
 
 @media (min-width: 979px) and (max-width: 1200px) {
