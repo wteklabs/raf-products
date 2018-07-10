@@ -687,6 +687,9 @@ section.callaction {
 
 #content img {
   margin-bottom: 30px;
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
 }
 
 /* --- box --- */
@@ -2675,4 +2678,8 @@ a.btn.btn-wide {
 .title {
   margin-left: 110px;
   margin-top: 43px;
+}
+
+.cbp-l-grid-projects-title {
+  text-transform: capitalize;
 }
